@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="08/17/24||20:55:00" using="Simscape Multibody Link Version 7.0" from="SolidWorks 29.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Robotic Arm part 1 v8.step" uid="Robotic Arm part 1 v8.step" version="103">
+<AssemblyFile name="Robotic Arm part 1 v8.step.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Component8(Mirror).step-1" uid="Component8(Mirror).step-1" grounded="true" entityUid="Component8(Mirror).step*:*Default">
+<Transform>
+<Rotation>0.73773444517238829 0.56005004528596314 -0.37695070656702434 -0.67359904260926429 0.57356392522543698 -0.46614241758916536 -0.044857755205436022 0.59780295286589202 0.80038703846498482</Rotation>
+<Translation>-0.27337334776233901 -0.35905769109575297 0.87931468085947695</Translation>
+</Transform>
+</Instance>
+<Instance name="Component4.step-1" uid="Component4.step-1" grounded="true" entityUid="Component4.step*:*Default">
+<Transform>
+<Rotation>-0.49171787832162411 0.7507050723964046 -0.44119771352216869 -0.55875591466249508 -0.66063749082103207 -0.50134811613425811 -0.66783632423563111 2.5950654234660016e-16 0.74430816469486694</Rotation>
+<Translation>0.015317427903427 -0.023397131027586001 0.63363785807126005</Translation>
+</Transform>
+</Instance>
+<Instance name="Component5.step-1" uid="Component5.step-1" grounded="true" entityUid="Component5.step*:*Default">
+<Transform>
+<Rotation>-0.49171787832162378 0.78983625883478326 -0.3665681551481989 -0.55875591466249575 -0.60908337797294465 -0.56285812289310055 -0.66783632423563066 -0.071945277169111657 0.74082286757665705</Rotation>
+<Translation>-0.11793811712173401 -0.17481998390112299 0.45265421420340302</Translation>
+</Transform>
+</Instance>
+<Instance name="Component6.step-1" uid="Component6.step-1" grounded="true" entityUid="Component6.step*:*Default">
+<Transform>
+<Rotation>0.78983625883478037 0.56331627373755022 0.24255609654741572 -0.6090833779729482 0.76682739048309412 0.20246775516597951 -0.07194527716911403 -0.30765326090800604 0.94877465614640544</Rotation>
+<Translation>-0.22095629704250999 -0.29973920932409998 0.37924744958992102</Translation>
+</Transform>
+</Instance>
+<Instance name="Component1.step-1" uid="Component1.step-1" grounded="true" entityUid="Component1.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Component2.step-1" uid="Component2.step-1" grounded="true" entityUid="Component2.step*:*Default">
+<Transform>
+<Rotation>0.66063749082103229 -0.75070507239640438 -7.5070507239640474e-16 0.75070507239640438 0.66063749082103229 6.6063749082103261e-16 0 -1.0000000000000005e-15 1.0000000000000002</Rotation>
+<Translation>0 0 0.084000000000000005</Translation>
+</Transform>
+</Instance>
+<Instance name="Component3.step-1" uid="Component3.step-1" grounded="true" entityUid="Component3.step*:*Default">
+<Transform>
+<Rotation>-0.25555751227103085 -0.60920624766999087 -0.75070507239640483 -0.29039877908297784 -0.6922619842435429 0.6606374908210314 -0.92214906985202649 0.3868347101425133 -1.6653345369377348e-16</Rotation>
+<Translation>-0.114109725071083 -0.099393011043040005 0.24399999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="Component7.step-1" uid="Component7.step-1" grounded="true" entityUid="Component7.step*:*Default">
+<Transform>
+<Rotation>-0.56331627373754589 0.78983625883478381 0.24255609654741428 -0.76682739048309689 -0.60908337797294376 0.20246775516598217 0.30765326090800693 -0.071945277169112976 0.9487746561464051</Rotation>
+<Translation>-0.23898241780211199 -0.32427768581956001 0.38909235393897701</Translation>
+</Transform>
+</Instance>
+<Instance name="Component8.step-1" uid="Component8.step-1" grounded="true" entityUid="Component8.step*:*Default">
+<Transform>
+<Rotation>-0.78983625883478037 0.52179526317050884 0.32231721574048344 0.6090833779729482 0.60568599747648155 0.51201749104691963 0.07194527716911403 0.60072803812851872 -0.79620958377761342</Rotation>
+<Translation>-0.21917314304622801 -0.40015070106592898 0.87422750807817695</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Component1.step" uid="Component1.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component1.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.5890035361538855</Mass>
+<CenterOfMass>0.0007806396496672374 -0.00078063964966717007 0.048593515527988899</CenterOfMass>
+<Inertia>0.015127585983200884 0.015127585983200881 0.027823245519675743 -9.0860466173524188e-05 9.0860466173515447e-05 3.467728090724902e-05</Inertia>
+</MassProperties>
+<GeometryFile name="Component1.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component2.step" uid="Component2.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component2.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.305524868015719</Mass>
+<CenterOfMass>-0.056861532301882699 -0.0027992515498572335 0.082902374841806889</CenterOfMass>
+<Inertia>0.01189295903158246 0.023759524664908042 0.01623011952724486 0.00041866628167098942 0.0090600518476961264 -0.0004792845461550833</Inertia>
+</MassProperties>
+<GeometryFile name="Component2.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component3.step" uid="Component3.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component3.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.87894214059180564</Mass>
+<CenterOfMass>-0.13661808546910367 -0.0079509101750064627 0.015272326179762385</CenterOfMass>
+<Inertia>0.00056215887422110121 0.016773704770193604 0.017082240675084834 -2.549458219455889e-05 -0.00010417268211917215 -0.00017370309864766576</Inertia>
+</MassProperties>
+<GeometryFile name="Component3.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component4.step" uid="Component4.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component4.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.2729575527770856</Mass>
+<CenterOfMass>0.085445564063700671 -0.0019116654965262666 -0.0060729147439439494</CenterOfMass>
+<Inertia>0.0017006741274360907 0.0065411359442143664 0.0061634584311535982 -0.00011019210547818709 -0.00027409631377359455 -8.459980739422569e-05</Inertia>
+</MassProperties>
+<GeometryFile name="Component4.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component5.step" uid="Component5.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component5.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.62376607001853845</Mass>
+<CenterOfMass>0.079835040323953513 -5.6801760795175151e-09 3.0347581893966497e-08</CenterOfMass>
+<Inertia>0.00058320072973224368 0.0019872237471310846 0.002154187036893782 -1.9619834114042404e-10 -1.215313753905828e-08 3.626187406907058e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Component5.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component6.step" uid="Component6.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component6.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.31213009030056155</Mass>
+<CenterOfMass>0 0.002327257248734102 0</CenterOfMass>
+<Inertia>0.00032489409255405941 0.00021469800935298649 0.0003220053314520978 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Component6.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component7.step" uid="Component7.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component7.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.080388044287947463</Mass>
+<CenterOfMass>0.018207313751928196 5.2975436147200717e-12 -1.0546129174033596e-12</CenterOfMass>
+<Inertia>4.2443862191658936e-05 3.8407793477737691e-05 4.5757975850477657e-05 -6.4474685524963262e-12 5.4677513094946901e-16 -2.7467618980268058e-15</Inertia>
+</MassProperties>
+<GeometryFile name="Component7.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.098039215686274508" g="0.098039215686274508" b="0.098039215686274508" a="1"/>
+<Diffuse r="0.098039215686274508" g="0.098039215686274508" b="0.098039215686274508" a="1"/>
+<Specular r="0.049019607843137254" g="0.049019607843137254" b="0.049019607843137254" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component8(Mirror).step" uid="Component8(Mirror).step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component8(Mirror).step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.022003686324587927</Mass>
+<CenterOfMass>0.0052351306723924795 -0.28838495991843155 -0.37047004613490386</CenterOfMass>
+<Inertia>1.3829602556367702e-05 1.1073389416653519e-05 6.6646309154546908e-06 6.0612755797247277e-06 -3.2933318097218156e-06 2.3075244945783245e-06</Inertia>
+</MassProperties>
+<GeometryFile name="Component8(Mirror).step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.79607843137254897" g="0.79607843137254897" b="0.79607843137254897" a="1"/>
+<Diffuse r="0.79607843137254897" g="0.79607843137254897" b="0.79607843137254897" a="1"/>
+<Specular r="0.39803921568627448" g="0.39803921568627448" b="0.39803921568627448" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Component8.step" uid="Component8.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Component8.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.022095313320775644</Mass>
+<CenterOfMass>0.0053572783736665899 -0.28833562975863719 0.37056369551023988</CenterOfMass>
+<Inertia>1.3906369643072165e-05 1.1351953919294198e-05 6.9154697574086769e-06 -6.0776877653855133e-06 3.2382573566059956e-06 2.267513303053208e-06</Inertia>
+</MassProperties>
+<GeometryFile name="Component8.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
